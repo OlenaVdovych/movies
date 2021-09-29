@@ -1,0 +1,27 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlenaVdovych/movies.git"
+  },
+  "author": "Olena Vdovych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlenaVdovych/movies/issues"
+  },
+  "engines": {
+    "node": "14.17.6",
+    "npm": "7.24.1"
+  },
+  "homepage": "https://github.com/OlenaVdovych/movies#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
